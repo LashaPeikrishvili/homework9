@@ -1,11 +1,13 @@
 .container{
 	max-width: 1920px;
 	width: 100%;
+	background-color: green;
 }
 .child1{
 	max-width: 405.82px;
 	width: 100%;
 	margin-left: 300px;
+	background-color: red;
 }
 h3{
 	font-size: 26px;
@@ -27,6 +29,7 @@ h4{
 }
 .child2 img{
 	position: absolute;	
+	background-color: orange;
 }
 .child2 article{
 	position: absolute;
