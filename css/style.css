@@ -1,0 +1,50 @@
+.container{
+	max-width: 1920px;
+	width: 100%;
+}
+.child1{
+	max-width: 405.82px;
+	width: 100%;
+	margin-left: 300px;
+}
+h3{
+	font-size: 26px;
+}
+.travel{
+	font-size: 13px;
+	color: #404040;
+	text-shadow: #000000;
+}
+h4{
+	font-size: 20px;
+}
+.img1{
+	width: 605.52px;
+}
+.child2{
+	position: relative;
+	margin-right: 300px;
+}
+.child2 img{
+	position: absolute;	
+}
+.child2 article{
+	position: absolute;
+}
+.memories{
+	padding-left: 40px;
+	padding-top: 338px;
+}
+.parent{
+	display: flex;
+	justify-content: space-between;
+}
+.photo-memories{
+	font-size: 15px;
+}
+.memories h3{
+	font-size: 32px;
+}
+.memories p{
+	font-size: 15px;
+}
